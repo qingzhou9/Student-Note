@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+ul {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	font-size: 20px;	
+}
+img {
+	vertical-align: top;  /* 去除 图片低测缝隙  图片和文字的基线对齐 */
+}
+.h {
+	width: 200px;
+	height: 50px;
+	margin: 0 150px;
+}
+.enter{
+	width: 120px;
+	height: 30px;
+	margin: 30px 1100px;
+}
+.part{
+	height: 600px;
+}
+.part1{
+	width: 400px;
+	height: 50px;
+	margin: -70px 350px;
+}
+.part1 li{
+	width: 100px;
+	float: left;
+}
+.part2{
+	width: 999px;
+	height: 600px;
+	margin: 0px 150px;
+	background-color: aqua;
+}
+.part3{
+	width: 220px;
+	height: 600px;
+	margin: -600px 1169px;
+	background-color: darkgray;
+}
+hr{
+	width: 1300px;
+}
+.xuan{
+	width: 500px;
+	height: 50px;
+	margin: 0px 150px;
+}
+.xuan li{
+	float: left;
+	margin: 15px 40px;
+}
+
+
+
+
+
+
+
