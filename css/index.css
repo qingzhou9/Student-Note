@@ -19,18 +19,23 @@ img {
 	height: 50px;
 	margin: 0 150px;
 }
+.search{
+	width: 250px;
+	height: 30px;
+	margin: 40px 800px;
+}
 .register{
 	width: 120px;
 	height: 30px;
-	margin: 40px 1100px;
+	margin: -70px 1100px;
 }
 .part1{
 	height: 600px;
 }
 .part{
-	width: 600px;
+	width: 500px;
 	height: 30px;
-	margin: -70px 350px;
+	margin: -70px 300px;
 }
 .part li{
 	width: 100px;
