@@ -19,20 +19,20 @@ img {
 	height: 50px;
 	margin: 0 150px;
 }
-.enter{
+.register{
 	width: 120px;
 	height: 30px;
-	margin: 30px 1100px;
-}
-.part{
-	height: 600px;
+	margin: 40px 1100px;
 }
 .part1{
-	width: 400px;
-	height: 50px;
+	height: 600px;
+}
+.part{
+	width: 600px;
+	height: 30px;
 	margin: -70px 350px;
 }
-.part1 li{
+.part li{
 	width: 100px;
 	float: left;
 }
@@ -46,23 +46,22 @@ img {
 	width: 220px;
 	height: 600px;
 	margin: -600px 1169px;
-	background-color: darkgray;
+	background-color: white;
+}
+.lu{
+	width: 220px;
+	height: 280px;
+	background-color: azure;
+}
+.lu li{
+	margin: 0 30px;
 }
 hr{
 	width: 1300px;
 }
-.xuan{
-	width: 500px;
-	height: 50px;
-	margin: 0px 150px;
+.recommend li{
+	margin: 10px 30px;
 }
-.xuan li{
-	float: left;
-	margin: 15px 40px;
-}
-
-
-
 
 
 
