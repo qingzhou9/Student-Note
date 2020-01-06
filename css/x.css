@@ -1,5 +1,22 @@
 @charset "utf-8";
 /* CSS Document */
+.x1{
+	width: 200px;
+	height: 50px;
+	margin: 0 150px;
+}
+.x11{
+	width: 500px;
+	height: 30px;
+	margin: -70px 300px;
+}
+.x11 li{
+	width: 100px;
+	float: left;
+}
+hr{
+	width: 1300px;
+}
 .x2{
 	width: 180px;
 	height: 200px;
@@ -14,7 +31,7 @@ li {
 	list-style: none;
 }
 .x3{
-	width: 1000px;
+	width: 1001px;
 	height: 50px;
 	margin: 0 15%; 
 	background-color: aquamarine;
@@ -36,8 +53,6 @@ li {
 	margin: 0 15%;
 	border: double #19F363;
 }
-
-
 
 
 
